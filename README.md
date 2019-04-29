@@ -1,7 +1,7 @@
 # ML101
 Introduction to Machine Learning tutorial  
 
-16 April 2019: Exploratory Data Analysis (EDA)
+16 April 2019: Exploratory Data Analysis (EDA)  
 3 May 2019: Classification
 
 In order for the notebooks to work you will need to make sure to have installed:  
