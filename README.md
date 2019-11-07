@@ -18,3 +18,10 @@ In order for the notebooks to work you will need to make sure to have installed:
 [Notebook 4 - Regression II](notebooks/Regression2.ipynb)
 
 
+# Theory material
+
+Text book: [Understanding Machine Learning - from theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
+7 Nov 2019: Random Forest presentation by Bogdan - [slides](https://drive.google.com/file/d/1a2CHLdYoU0LjESIRIiKorVtv5PZKzBAL/view?usp=sharing)
+
+
