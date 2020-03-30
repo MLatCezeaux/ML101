@@ -1,4 +1,23 @@
-CSV data files are stored here:
+In order to run this notebook we advise you to create a new virtual environment. 
 
-https://box.in2p3.fr/index.php/s/qoLssQFAqdt46w3
+1. First make sure you can create virtual environments:  
 
+    >>> python3 -m pip install --user virtualenv
+    
+    
+2. Create a new virtual environment for your activities:
+
+    >>> python3 -m venv MLCezeaux
+    
+This will create a directory named `MLCezeaux`. You can now activate the virtual environment:  
+
+    >>> source MLCezeaux/bin/activate
+
+If everything is ok you will see the name of the virtual environment in the left most side of your command line. 
+Install the necessary dependencies:  
+
+    (MLCezeaux) >>> pip3 install -r requirements.txt
+    
+ You should now be able to open the notebook using:  
+ 
+     (MLCezeaux) >>> jupyter notebook
