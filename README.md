@@ -25,3 +25,5 @@ Text book: [Understanding Machine Learning - from theory to algorithms](https://
 7 Nov 2019: Random Forest presentation by Bogdan - [slides](https://drive.google.com/file/d/1a2CHLdYoU0LjESIRIiKorVtv5PZKzBAL/view?usp=sharing)
 
 
+31 March 2020: Introduction to Neural Networks by Julien Donini - [slides](https://drive.google.com/file/d/1TpkV_zIGHIOgcGo-zQ_ySfkkn3peOpFZ/view?usp=sharing)
+
